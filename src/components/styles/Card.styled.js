@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import GlobalStyles from "./Global.styles";
 
 export const StyledCard = styled.div`
     width: 20rem;
@@ -11,4 +11,22 @@ export const StyledCard = styled.div`
     background: var(--white);
     padding-top: 1rem;
     border-radius: 12px;
+
+    img {
+      width:  18rem;
+      height: 18rem;
+      border-radius: 12px;
+    }
+
+    h3 {
+      color: var(--dark-blue);
+      font-weight: 700;
+      font-size: 1.3rem;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: var(--grayish-blue);
+      font-weight: 400;
+    }
 `

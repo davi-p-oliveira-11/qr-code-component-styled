@@ -50,6 +50,15 @@ p {
   display: block;
 }
 
+/* Reused styles */
+
+h3,
+p {
+  width: 16rem;
+  margin-top: 1.1rem;
+  line-height: 1.4;
+}
+
 body {
   background-color: var(--light-gray);
   width: 100%;
@@ -58,6 +67,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 `
 
 export default GlobalStyles
