@@ -1,6 +1,6 @@
-import GlobalStyles from "./styles/Global.styles"
 import { StyledCard } from "./styles/Card.styled"
 import Qrcode from "../images/image-qr-code.png"
+import content from "../content"
 
 
 const Card = () => {
@@ -9,8 +9,8 @@ const Card = () => {
       <div>
         <img src={Qrcode} alt="qr code" />
       </div>
-      <h3></h3>
-      <p></p>
+      <h3>{content.title}</h3>
+      <p>{content.text}</p>
     </StyledCard>
   )
 }
