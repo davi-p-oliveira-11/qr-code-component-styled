@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import GlobalStyles from "./Global.styles";
+
 
 export const StyledCard = styled.div`
     width: 20rem;
