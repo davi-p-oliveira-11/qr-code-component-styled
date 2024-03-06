@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/davi-p-oliveira-11/qr-code-component-styled)
-- Live Site URL: [Add live site URL here](https://qr-code-component-styled.vercel.app/)
+- Solution URL: [Solution](https://github.com/davi-p-oliveira-11/qr-code-component-styled)
+- Live Site URL: [Live Project](https://qr-code-component-styled.vercel.app/)
 
 ## My process
 
@@ -44,5 +44,5 @@ Looking forward to sticking with the same tech setup for upcoming Front End Ment
 
 ## Author
 
-- Website (Coming Soon) - [Add your name here](https://www.your-site.com)
+- Website (Coming Soon) - [Davi P. Oliveira](https://www.your-site.com)
 - Frontend Mentor - [@davi-p-oliveira-11](https://www.frontendmentor.io/profile/davi-p-oliveira-11)
